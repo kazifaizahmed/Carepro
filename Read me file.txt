@@ -1,0 +1,6 @@
+In the following task, I have used the selenium with java and the testNG framework
+for that I have used the page object model to run the test cases. I have set the main testNG test file under the main package of the main test. I have moatly taken the X-path and Css selectors as the locators to find the testing results and entered the website.
+
+*NOTE.
+
+Whenever I am running the test cases, the auto scripts will be generated under the report section.
